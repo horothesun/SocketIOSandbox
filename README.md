@@ -1,11 +1,16 @@
 # Socket.io sandbox
 
-### How to run
+## How to run
+
+### Server
 
 - `cd server`
 - `npm i`
-- `node server.js`
-- `cd ../client`
+- `npm run dev`
+
+### Client
+
+- `cd client`
 - `pod install`
 - open `SocketIOSandbox.xcworkspace` with Xcode 11+
 - build `SocketIOSandbox` target
