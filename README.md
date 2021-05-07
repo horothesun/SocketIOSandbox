@@ -12,6 +12,5 @@
 
 - `cd client`
 - `pod install`
-- open `SocketIOSandbox.xcworkspace` with Xcode 11
-- build `SocketIOSandbox` target
-- run `Sandbox.playground`
+- open `SocketIOSandbox.xcworkspace` with Xcode 11+
+- run `SocketIOSandbox` target

@@ -35,7 +35,6 @@
 		8FEC71319B5707F74C1C56D0 /* Pods_SocketIOSandboxTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SocketIOSandboxTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACADCA20718C33BD8564A6B4 /* Pods-SocketIOSandboxTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocketIOSandboxTests.debug.xcconfig"; path = "Target Support Files/Pods-SocketIOSandboxTests/Pods-SocketIOSandboxTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ACDA801BAFE25D734EBFBF78 /* Pods-SocketIOSandboxTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SocketIOSandboxTests.release.xcconfig"; path = "Target Support Files/Pods-SocketIOSandboxTests/Pods-SocketIOSandboxTests.release.xcconfig"; sourceTree = "<group>"; };
-		B317C0D123A6B79F0060CAA5 /* Sandbox.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Sandbox.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B37F063A23A67DC7008B6F36 /* SocketIOSandbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocketIOSandbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B37F063D23A67DC7008B6F36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B37F063F23A67DC7008B6F36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,7 +91,6 @@
 		B37F063123A67DC7008B6F36 = {
 			isa = PBXGroup;
 			children = (
-				B317C0D123A6B79F0060CAA5 /* Sandbox.playground */,
 				B37F063C23A67DC7008B6F36 /* SocketIOSandbox */,
 				B37F065323A67DCB008B6F36 /* SocketIOSandboxTests */,
 				B37F063B23A67DC7008B6F36 /* Products */,
